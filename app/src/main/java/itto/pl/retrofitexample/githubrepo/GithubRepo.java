@@ -1,4 +1,4 @@
-package itto.pl.retrofitexample.overview;
+package itto.pl.retrofitexample.githubrepo;
 
 public class GithubRepo {
     String name;

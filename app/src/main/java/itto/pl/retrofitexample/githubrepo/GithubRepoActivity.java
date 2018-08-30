@@ -1,4 +1,4 @@
-package itto.pl.retrofitexample.overview;
+package itto.pl.retrofitexample.githubrepo;
 
 import androidx.annotation.NonNull;
 import androidx.appcompat.app.AppCompatActivity;
